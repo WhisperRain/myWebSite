@@ -1,18 +1,5 @@
-vikramtiwari.github.io
-======================
 
-Github repo for Vikram Tiwari's Website
-
-## How to get your own?
-1. Fork the repo
-2. Rename the repo as `your-user-name.github.com`
-3. Check at [http://your-user-name.github.com](http://your-user-name.github.com)
-4. Start making changes!
-
-## How to run locally
-Simply go to your cloned directory and start a static server:
-
-1. Python 2.7x `python -m SimpleHTTPServer`
-2. Python 3.x `python -m http.server`
-
-> Don't forget to star the repo. :stuck_out_tongue_winking_eye:
+这是一个个人网站。
+引用了谷歌工程师vikramtiwari提供的框架，在此表示感谢。
+直接点击index主页就可以运行了。
+github可以为个人网站提供二级域名，以及免费的云空间，真是太方便了。
